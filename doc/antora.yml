@@ -1,0 +1,5 @@
+name: kodein-di
+title: Kodein-DI
+version: dev
+nav:
+  - nav.adoc
